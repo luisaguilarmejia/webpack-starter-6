@@ -1,4 +1,4 @@
-# Webpack Starter-5
+# Webpack Starter-6
 
 Este es el proyecto inicial para crear aplicaciones utilizando webpack - 5
 
